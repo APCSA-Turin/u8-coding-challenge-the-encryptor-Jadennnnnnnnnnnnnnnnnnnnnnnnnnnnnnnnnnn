@@ -300,7 +300,4 @@ public class TestEncryptor{
         assertDoesNotThrow(() -> Encryptor.decryptMessage(encryptedMessage, rows));
     }
 
-    
-
-    
 }
